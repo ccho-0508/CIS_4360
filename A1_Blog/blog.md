@@ -1,5 +1,5 @@
 
-# Innovation Insight for Microservices :
+# Thoughts on : Innovation Insight for Microservices by Gartner
 
 In the section defining microservices, the adjectives 'strongly encapsulated and loosely coupled' reminded me of React's design principle of creating applications with [specialized reusable components](https://reactjs.org/docs/design-principles.html)  so functionality can be added without affecting the entire app. I'm new to React, but using it has helped out immensely by keeping my code clean and manageable. 
 

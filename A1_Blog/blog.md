@@ -10,6 +10,7 @@ Amongst the key findings, it was recommended that delivery teams should practice
 The service mesh was another concept I was unfamiliar with, but this [article](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) helped me understand its use. It is separate from the services and it helps optimize communication between them so the they don't need built in communication logic. Developers can just focus on adding business value rather than connecting services. 
 
 I found the granularity spectrum (micro, mini, and macro) and diagrams helpful in my understanding of how microservices are implemented in comparison to miniservices and macroservices, and how they can all be adopted according to the business needs. 
+
 ![](https://github.com/ccho-0508/CIS_4360/blob/master/A1_Blog/Granularity%20Spectrum.png)
 
 With my first read through, even though I didn't understand all the terms, the report was clear on the risks and implications of a premature adoption of microservices. With another reading and research done on the terms I was unfamiliar with, I was able to develop a more nuanced understanding of the prerequisites listed to adopt MSA and the risks involved. 

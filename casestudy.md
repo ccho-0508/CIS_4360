@@ -1,4 +1,4 @@
-### How Twitter Built a Metering & Chargeback System to Incentivize Higher Resource Utilization of Twitter Infrastructure
+### One Pager: How Twitter Built a Metering & Chargeback System to Incentivize Higher Resource Utilization of Twitter Infrastructure
 
 
 Twitter was initially known as “The Monorail” and it was one of the largest Ruby on Rails deployments. At its peak, the application could service 3283 tweets per second (TPS) which was 5 times the average rate. The issue with this was the unpredictability of events that would cause a spike in TPS. Whenever viral events would happen, the Monorail would go down, marking it as unreliable and unproductive. The next step was adapting the application to adhere to a service oriented architecture, specifically by using microservices. By re-architecting the stack, there were many benefits such as fault tolerance, isolated teams, scalable and efficient services, and increased developer productivity.
